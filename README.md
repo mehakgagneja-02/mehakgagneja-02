@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mehak
 - 👀 I’m interested in Data Analytics and Android App development
-- 🌱 I’m currently working as a Data Analyst 
+- 🌱 I'm currently a graduate student at Northeastern University, Boston, US 
+- 👩‍💼 I was previously working as a Business Technology Solutions Associate with ZS Associates 
 - 📫 mehakgagneja02@gmail.com | https://www.linkedin.com/in/mehak-gagneja-530242193/
