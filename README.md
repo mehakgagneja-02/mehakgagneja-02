@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <h2>Technical Skills 🛠️</h1>
+  <h2>Tools and Technologies 🛠️</h2>
   
 ![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/RStudio-white?style=for-the-badge&logo=R&logoColor=%23276DC3)
@@ -53,4 +53,18 @@
 ![Static Badge](https://img.shields.io/badge/ms%20powerpoint-white?style=for-the-badge&logo=microsoftpowerpoint&logoColor=%23B7472A)
 ![Static Badge](https://img.shields.io/badge/ms%20word-white?style=for-the-badge&logo=microsoftword&logoColor=%232B579A)
 
+</div>
+
+<div align="center">
+  <h2>Technicalc Skills 👩🏻‍💻</h2>
+  
+![Static Badge](https://img.shields.io/badge/Data%20Analytics-black?style=for-the-badge&color=grey)
+![Static Badge](https://img.shields.io/badge/Data%20Visualization-black?style=for-the-badge&color=grey)
+![Static Badge](https://img.shields.io/badge/Data%20Mining-black?style=for-the-badge&color=grey)
+![Static Badge](https://img.shields.io/badge/Data%20Modeling-black?style=for-the-badge&color=grey)
+![Static Badge](https://img.shields.io/badge/Data%20Warehousing-black?style=for-the-badge&color=grey)
+![Static Badge](https://img.shields.io/badge/Statistical%20Modeling-black?style=for-the-badge&color=grey)
+![Static Badge](https://img.shields.io/badge/Data%20Management%20and%20Big%20Data-black?style=for-the-badge&color=grey)
+![Static Badge](https://img.shields.io/badge/Business%20Intelligence-black?style=for-the-badge&color=grey)
+![Static Badge](https://img.shields.io/badge/Machine%20Learning%20Modeling-black?style=for-the-badge&color=grey)
 </div>
