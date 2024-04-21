@@ -4,7 +4,7 @@
   </div>
 
 <div align="center">
-  <h1>Hi, I'm Mehak, passionate about carving a career path in Data Analytics and Engineering! 💻</h1>
+  <h2>Hi, I'm Mehak, passionate about carving a career path in Data Analytics and Engineering! 💻</h2>
   <p>As a Master's student in Data Analytics at Northeastern University (graduating in June 2024), I'm on a mission to harness the power of data to drive innovation and transformative solutions. From predictive modeling to data visualization, I thrive on turning insights into actionable strategies that make a difference.</p>
 </div>
 
