@@ -1,6 +1,6 @@
 <div style="position: relative;">
   <!-- Banner Image as Background -->
-  <img src="https://github.com/mehakgagneja02/Mehak/blob/399e61bebf845fb9fef02e164ca24a875b965ddf/Github_Banner.png" style="width:100%;">
+  <img src="https://github.com/mehakgagneja02/Mehak/blob/e7acd2970e734dd00d6a2cf2ee039d672c6cda34/Github_Banner.png" style="width:100%;">
   </div>
 
 <div align="center">
