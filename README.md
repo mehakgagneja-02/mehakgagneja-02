@@ -1,6 +1,7 @@
 <div style="position: relative;">
   <!-- Banner Image as Background -->
-  <img src="https://github.com/mehakgagneja02/Mehak/blob/399e61bebf845fb9fef02e164ca24a875b965ddf/Github_Banner.png" style="width: 100%;">
+  <img src="https://github.com/mehakgagneja02/Mehak/blob/399e61bebf845fb9fef02e164ca24a875b965ddf/Github_Banner.png" style="width:100%;">
+  </div>
 
 <div align="center">
   <h1>Hi, I'm Mehak, passionate about carving a career path in Data Analytics and Engineering! 💻</h1>
