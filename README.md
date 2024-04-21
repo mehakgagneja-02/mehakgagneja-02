@@ -56,7 +56,7 @@
 </div>
 
 <div align="center">
-  <h2>Technicalc Skills 👩🏻‍💻</h2>
+  <h2>Technical Skills 👩🏻‍💻</h2>
   
 ![Static Badge](https://img.shields.io/badge/Data%20Analytics-black?style=for-the-badge&color=grey)
 ![Static Badge](https://img.shields.io/badge/Data%20Visualization-black?style=for-the-badge&color=grey)
