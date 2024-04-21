@@ -68,3 +68,20 @@
 ![Static Badge](https://img.shields.io/badge/Business%20Intelligence-black?style=for-the-badge&color=grey)
 ![Static Badge](https://img.shields.io/badge/Machine%20Learning%20Modeling-black?style=for-the-badge&color=grey)
 </div>
+
+<tr>
+  <td colspan="2">
+    <div align="center">
+      <h2>GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=mehakgagneja02&show_icons=true&icon_color=0A66C2&text_color=181717&title_color=0A66C2" alt="GitHub Stats" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div align="center">
+        <h2>Top Languages</h2>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakgagneja02&langs_count=7&text_color=181717&title_color=0A66C2" alt="Top Languages" />
+      </div>
+    </td>
+  </tr>
