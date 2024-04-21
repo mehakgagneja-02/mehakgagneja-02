@@ -8,7 +8,11 @@
   <p>As a Master's student in Data Analytics at Northeastern University (graduating in June 2024), I'm on a mission to harness the power of data to drive innovation and transformative solutions. From predictive modeling to data visualization, I thrive on turning insights into actionable strategies that make a difference.</p>
 </div>
 
-  <div style="position: absolute; top: 10%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
-    <!-- Image to Overlay (adjust size and src as needed) -->
-    <img src="https://github.com/mehakgagneja02/Mehak/blob/b3a5493bad1cfb061083613ed0f50fa88674fd6b/gmail-new-icon.jpeg" alt="Overlay Image" style="width: 100px; height: auto; border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);">
-  </div>
+<p>
+    <a href="https://www.linkedin.com/in/mehak-gagneja/">
+      <img src="https://path/to/linkedin-icon.png" alt="LinkedIn Icon" style="width: 30px; margin-right: 10px;">
+    </a>
+    <a href="mailto:mehakgagneja02@gmail.com">
+      <img src="https://github.com/mehakgagneja02/Mehak/blob/8b58e18f92aa3b28a6acaf309fe4c1c14d09909e/Gmail.jpeg" alt="Email Icon" style="width: 30px; margin-right: 10px;">
+    </a>
+  </p>
