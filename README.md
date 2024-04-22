@@ -77,7 +77,15 @@
       </div>
     </td>
   </tr>
-  <tr>
+<tr>
+  <td colspan="2">
+    <div align="center">
+      <h2>GitHub Streak</h2>
+        <img src="https://streak-stats.demolab.com/?user=mehakgagneja02&theme=default)](https://git.io/streak-stats)" />
+      </div>
+    </td>
+  </tr>
+<tr>
     <td colspan="2">
       <div align="center">
         <h2>Top Languages</h2>
