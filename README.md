@@ -1,4 +1,4 @@
-<div style="position: relative;">
+<div style="position: absolute;">
   <!-- Banner Image as Background -->
   <img src="https://github.com/mehakgagneja02/Mehak/blob/e7acd2970e734dd00d6a2cf2ee039d672c6cda34/Github_Banner.png" style="width:100%;">
   </div>
