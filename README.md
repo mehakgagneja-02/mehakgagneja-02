@@ -5,7 +5,7 @@
 
 <div align="center">
   <h2>Hi, I'm Mehak, passionate about carving a career path in Data Analytics and Engineering! 💻</h2>
-  <p>As a Master's student in Data Analytics at Northeastern University (graduating in June 2024), I'm on a mission to harness the power of data to drive innovation and transformative solutions. From predictive modeling to data visualization, I thrive on turning insights into actionable strategies that make a difference.</p>
+  <p>As a recent graduate from Northeastern University having completed my Master's in Data Analytics, I'm on a mission to harness the power of data to drive innovation and transformative solutions. From predictive modeling to data visualizations, I thrive on turning insights into actionable strategies that make a difference.</p>
 </div>
 
 <div align="center">
