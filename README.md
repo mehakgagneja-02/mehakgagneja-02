@@ -2,10 +2,14 @@
   <!-- Banner Image as Background -->
   <img src="https://github.com/mehakgagneja02/Mehak/blob/e7acd2970e734dd00d6a2cf2ee039d672c6cda34/Github_Banner.png" style="width:100%;">
   </div>
-
+  
 <div align="center">
   <h2>Hi, I'm Mehak, passionate about carving a career path in Data Analytics and Engineering! 💻</h2>
   <p>As a recent graduate from Northeastern University having completed my Master's in Data Analytics, I'm on a mission to harness the power of data to drive innovation and transformative solutions. From predictive modeling to data visualizations, I thrive on turning insights into actionable strategies that make a difference.</p>
+</div>
+
+<div align="center">
+  <h2> Link to my older GitHub account that I lost access to: https://github.com/mehakgagneja02 </h2>
 </div>
 
 <div align="center">
