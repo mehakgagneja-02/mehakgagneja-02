@@ -9,6 +9,10 @@
 </div>
 
 <div align="center">
+  <p>Lost access to previous GitHub accout : https://github.com/mehakgagneja02</p>
+</div>
+
+<div align="center">
 <p><strong>Connect with me:</strong></p>
 <p>
     <a href="https://www.linkedin.com/in/mehak-gagneja/">
