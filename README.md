@@ -8,18 +8,6 @@
   <p>As a recent graduate from Northeastern University having completed my Master's in Data Analytics, I'm on a mission to harness the power of data to drive innovation and transformative solutions. From predictive modeling to data visualizations, I thrive on turning insights into actionable strategies that make a difference.</p>
 </div>
 
-<div align="center" style="background-color: #f1f1f1; border-radius: 15px; padding: 30px 40px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 600px; margin: auto;">
-  <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333; margin-bottom: 20px; font-size: 22px;">Link to my older GitHub account (I lost access to it):</h2>
-  <a href="https://github.com/mehakgagneja02" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 20px; font-weight: bold; color: #0366d6; text-decoration: none; display: flex; align-items: center; transition: all 0.3s ease;">
-    <span style="margin-right: 10px;">
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" fill="#0366d6"><path d="M22 12l-6-5v4H2v2h14v4z"/></svg>
-    </span>
-    https://github.com/mehakgagneja02
-  </a>
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555; font-size: 16px; margin-top: 10px;">Note: This account is no longer accessible.</p>
-</div>
-
-
 <div align="center">
 <p><strong>Connect with me:</strong></p>
 <p>
